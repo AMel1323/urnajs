@@ -39,3 +39,22 @@ body {
     cursor: pointer;
     box-shadow: 2px 2px 0px #555;
 }
+
+.botao--branco{
+    background-color: #fff;
+    color: #000; 
+    font-size: 15px;
+}
+
+.botao--corrige {
+    background-color: #f09046;
+    color: #000;
+    font-size: 15px;
+}
+.botao--confirme {
+    background-color: #48c079;
+    color: #000;
+    font-size: 15px;
+    width: 90px;
+    height: 50px;
+}
